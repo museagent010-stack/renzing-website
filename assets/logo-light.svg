@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Renzing</title>
+  <desc id="desc">Renzing logo mark in light bronze for dark backgrounds: a framed letter R with a water drop in its bowl.</desc>
+  <rect x="2" y="2" width="44" height="44" rx="2" stroke="#D9C69C" stroke-width="1.5"/>
+  <path d="M17 35.5v-21h9.2a6.55 6.55 0 0 1 0 13.1H17" stroke="#D9C69C" stroke-width="2.2" stroke-linecap="square"/>
+  <path d="M24.8 27.6 33 35.5" stroke="#D9C69C" stroke-width="2.2" stroke-linecap="square"/>
+  <path d="M24 16.9c1.3 1.58 2.18 2.74 2.18 3.86a2.18 2.18 0 1 1-4.36 0c0-1.12.88-2.28 2.18-3.86Z" fill="#D9C69C"/>
+</svg>
